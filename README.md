@@ -40,3 +40,7 @@ python cnn2.py
 ## Status
 
 Code for the competition prototype. The congestion-aware routing component that used these predictions was developed separately and is not included here.
+
+## Author
+
+Ahmed Farag, University of Toronto Engineering Science (Machine Intelligence)
